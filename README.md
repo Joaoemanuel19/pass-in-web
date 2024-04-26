@@ -14,5 +14,4 @@
 <p>- Tailwind</p>
 <p>- Lucide icons </p>
 
-### <a href="https://github.com/Joaoemanuel19/pass-in">Backend<a>
-### <a href=""https://github.com/Joaoemanuel19/pass-in-mobile>Mobile</a>
+### <a href="https://github.com/Joaoemanuel19/pass-in">Backend<a> / <a href="https://github.com/Joaoemanuel19/pass-in-mobile">Mobile</a>
